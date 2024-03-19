@@ -19,10 +19,10 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone 
+    git clone https://github.com/akash2061/RUST-Hash-Checker.git
     ```
     ```bash
-    cd 
+    cd RUST-Hash-Checker
     ```
 
 2. Build the project:
@@ -37,7 +37,7 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 
 ### Or Use Released Version
 
-1. Go to the [Releases](https://github.com/akash2061//releases) page or Directly [Download](https://github.com/akash2061//releases/download/v1.0.0/hash_check) the latest version.
+1. Go to the [Releases](https://github.com/akash2061/RUST-Hash-Checker/releases) page or Directly [Download](https://github.com/akash2061/RUST-Hash-Checker/releases/download/v1.0.0/hash_check) the latest version.
 2. Download the latest release for your platform.
 3. Open your terminal and navigate to the folder where the executable is downloaded.
 4. Copy the executable to the `/usr/local/bin` directory using the following command:
