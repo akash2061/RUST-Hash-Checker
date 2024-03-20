@@ -49,7 +49,7 @@ Make sure you have Rust installed on your system. If not, you can download it fr
 
 Now you can check hash and password from any terminal window by simply typing its name `hash_check`, thanks to its location in `/usr/local/bin`.
 
-### Download [pass_list.txt]() file for 1,00,000+ passwords.
+### Download [pass_list.txt](https://github.com/akash2061/RUST-Hash-Checker/releases/download/v1.0.0/pass_list.txt) file for 1,00,000+ passwords.
 
 ## Usage
 ### Convert a String to Hash
