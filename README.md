@@ -9,6 +9,9 @@ This Rust-based CLI tool offers two main functionalities:
 2. **Hash Checking**: It compares a given SHA-256 hash against a list of hashed passwords to determine if there's a match.
 
 ## Crates Used:
+clap = "v2.33"
+colored = "v2.1.0"
+sha2 = "v0.10.8"
 
 ## Where It Works
 This tool is useful for anyone looking to securely hash strings or check passwords against a known list of hashed passwords. It can be used by developers, security professionals, or anyone concerned with password security.
