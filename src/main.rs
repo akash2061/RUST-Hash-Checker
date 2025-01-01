@@ -8,7 +8,7 @@ use std::process::exit;
 
 fn main() {
     let matches = App::new("SHA-256 Hash Cracker")
-        .version("1.0.0")
+        .version("1.0.1")
         .author("akash2061")
         .about("Cracks SHA-256 hashes and converts strings to hashes")
         .arg(
