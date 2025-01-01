@@ -1,6 +1,6 @@
 [package]
 name = "hash_check"
-version = "1.0.0"
+version = "1.0.1"
 description = "A simple command line tool to check the hash of a passwords."
 edition = "2021"
 authors = ["akash2061 <aakashsoni8781@gmail.com>"]
