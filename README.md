@@ -1,4 +1,15 @@
-# Password-Hash Checker Built in Rust 🦀
+![Banner](./img/Hash_Check.png)
+[![akash2061](https://custom-icon-badges.demolab.com/badge/made%20by%20-Akash%20Soni-556bf2?logo=github&logoColor=white&labelColor=101827)](https://github.com/akash2061)
+![GitHub License](https://img.shields.io/github/license/akash2061/RUST-Hash-Checker?style=plastic&color=blue)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/akash2061/RUST-Hash-Checker/total?style=plastic&color=%23c8b6ff)
+![Maintenance](https://img.shields.io/badge/maintenance-actively--maintained-brightgreen?style=plastic)
+
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/RUST-Hash-Checker/v1.0.0/total?style=plastic&label=v1.0.0&color=azure)
+![GitHub Downloads (all assets, specific tag)](https://img.shields.io/github/downloads/akash2061/RUST-Hash-Checker/v1.0.1/total?style=plastic&label=v1.0.1&color=azure)
+![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/akash2061/RUST-Hash-Checker/pass_list.txt?style=plastic&label=1_00_000%2B%20Pass_List&color=%2307beb8)
+
+
+# Password Hash-Checker Built in Rust 🦀
 
 ## Overview
 This project is a simple tool built in Rust for converting a string to its SHA-256 hash and finding the hash of a string using a password list. It utilizes the SHA-256 hashing algorithm to securely hash strings and compares them against a provided list of hashed passwords to find matches.
@@ -18,37 +29,18 @@ This tool is useful for anyone looking to securely hash strings or check passwor
 
 
 ## Installation
-### Prerequisites
-Make sure you have Rust installed on your system. If not, you can download it from [rust-lang.org](https://www.rust-lang.org/).
 
-### Installation
-1. Clone this repository:
-    ```bash
-    git clone https://github.com/akash2061/RUST-Hash-Checker.git
-    ```
-    ```bash
-    cd RUST-Hash-Checker
-    ```
-
-2. Build the project:
-    ```bash
-    cargo build --release
-    ```
-
-3. Run the application:
-    ```bash
-    cargo run --release
-    ```
-
-### Or Use Released Version
-
-1. Go to the [Releases](https://github.com/akash2061/RUST-Hash-Checker/releases) page or Directly [Download](https://github.com/akash2061/RUST-Hash-Checker/releases/download/v1.0.0/hash_check) the latest version.
+1. Go to the [Releases](https://github.com/akash2061/RUST-Hash-Checker/releases) page or Directly [Download](https://github.com/akash2061/RUST-Hash-Checker/releases/latest/download/hash_check) the latest version.
 2. Download the latest release for your platform.
 3. Open your terminal and navigate to the folder where the executable is downloaded.
 4. Copy the executable to the `/usr/local/bin` directory using the following command:
 
     ```bash
     sudo cp ./hash_check /usr/local/bin/
+    ```
+    ```bash
+    # Grant executable permission.
+    chmod +x /usr/local/bin/hash_check
     ```
 
 
