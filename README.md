@@ -9,7 +9,7 @@
 ![GitHub Downloads (specific asset, all releases)](https://img.shields.io/github/downloads/akash2061/RUST-Hash-Checker/pass_list.txt?style=plastic&label=1_00_000%2B%20Pass_List&color=%2307beb8)
 
 
-# Password Hash-Checker Built in Rust 🦀 
+# Password Hash-Checker Built in Rust 🦀
 
 ## Overview
 This project is a simple tool built in Rust for converting a string to its SHA-256 hash and finding the hash of a string using a password list. It utilizes the SHA-256 hashing algorithm to securely hash strings and compares them against a provided list of hashed passwords to find matches.
